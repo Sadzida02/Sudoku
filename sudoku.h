@@ -1,4 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int createPuzzle();
+int ** createPuzzle();
+void printPuzzle(int ** puzzle);
